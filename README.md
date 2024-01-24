@@ -5,11 +5,11 @@ Problems were adapted from Stack Exchange's Code Golf section.
 
 ## Problem Descriptions
 
-(E-Number)[https://github.com/mineawesomeman/ACM-Code-Golf/blob/main/e-number.md]
+[E-Number](https://github.com/mineawesomeman/ACM-Code-Golf/blob/main/e-number.md)
 
-(English Monarch)[https://github.com/mineawesomeman/ACM-Code-Golf/blob/main/english-monarch.md]
+[English Monarch](https://github.com/mineawesomeman/ACM-Code-Golf/blob/main/english-monarch.md)
 
-(In Circle)[https://github.com/mineawesomeman/ACM-Code-Golf/blob/main/in-circle.md]
+[In Circle](https://github.com/mineawesomeman/ACM-Code-Golf/blob/main/in-circle.md)
 
 ## Instructions
 
