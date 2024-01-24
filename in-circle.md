@@ -18,4 +18,4 @@ This program will take a positive integer as its input. Reminder, you do NOT nee
 
 ## Output
 
-The number of integer points within the circle. The output could either be through stdout or an exit code.
+The number of integer points within the circle (or on the edge of it). The output could either be through stdout or an exit code.
